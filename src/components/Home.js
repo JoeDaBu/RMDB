@@ -1,6 +1,4 @@
 //container component so no folder as no styling
-//API
-import API from '../API'
 //Config
 import { POSTER_SIZE, BACKDROP_SIZE, IMAGE_BASE_URL } from '../config';
 //Components
